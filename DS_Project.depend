@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609137006 source:e:\fyq\ds_project\main.c
+	<stdio.h>
+	<stdlib.h>
+
